@@ -12,9 +12,9 @@ import javax.security.auth.message.callback.PrivateKeyCallback;
  * @author haseeb
  */
 public class LoginDao {
-   private String name="addyoutUSERNAME";
-   private String pass="ADD YOUR PASSWORD";
-   private String url="add your URL";
+   private String name="haseeb98paki";
+   private String pass="624770haseeb";
+   private String url="jdbc:mysql://localhost:3306/haseeb?zeroDateTimeBehavior=convertToNull";
  public boolean checkDetail(String uname,String password)
     {
         try{
